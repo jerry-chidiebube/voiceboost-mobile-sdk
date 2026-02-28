@@ -1,0 +1,8 @@
+"build/" 
+".gradle/" 
+"local.properties" 
+"*.log" 
+"*.apk" 
+"*.iml" 
+".idea" 
+".DS_Store" 
